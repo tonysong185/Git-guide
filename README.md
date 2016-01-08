@@ -6,3 +6,5 @@ This is the first edit.
     - feature-A
     - fix-B
     - feature-C
+
+    Gitflow-my-new-feature
