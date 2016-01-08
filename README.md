@@ -7,3 +7,4 @@ This is the first edit.
     - fix-B
     - feature-C
     -new-release
+    -new-feature
