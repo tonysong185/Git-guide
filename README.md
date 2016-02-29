@@ -7,4 +7,3 @@ This is the first edit.
     - fix-B
     - feature-C
     - add the wrong time commit
-    - add the two wrong time commit
